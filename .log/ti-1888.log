@@ -1,0 +1,54 @@
+[18:27:15.659] Global cache location 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7', safe file path 'c:/users/test/appdata/roaming/npm/node_modules/typescript/lib/typingsafelist.json', types map path c:/users/test/appdata/roaming/npm/node_modules/typescript/lib/typesmap.json
+[18:27:15.661] Processing cache location 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7'
+[18:27:15.661] Trying to find 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/package.json'...
+[18:27:15.663] Loaded content of 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.473"},"devDependencies":{"@types/backo2":"^1.0.1","@types/base64-arraybuffer":"^0.1.0","@types/callsite":"^1.0.30","@types/component-emitter":"^1.2.8","@types/debug":"^4.1.5","@types/engine.io-client":"^3.1.2","@types/express":"^4.17.2","@types/isarray":"^2.0.0","@types/socket.io":"^2.1.4","@types/socket.io-client":"^1.4.32","@types/socket.io-parser":"^2.2.1","@types/ws":"^6.0.4"}}
+[18:27:15.664] Loaded content of 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/package-lock.json'
+[18:27:15.675] Adding entry into typings cache: 'backo2' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/backo2/index.d.ts'
+[18:27:15.681] Adding entry into typings cache: 'base64-arraybuffer' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/base64-arraybuffer/index.d.ts'
+[18:27:15.687] Adding entry into typings cache: 'callsite' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/callsite/index.d.ts'
+[18:27:15.692] Adding entry into typings cache: 'component-emitter' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/component-emitter/index.d.ts'
+[18:27:15.697] Adding entry into typings cache: 'debug' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/debug/index.d.ts'
+[18:27:15.700] Adding entry into typings cache: 'engine.io-client' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/engine.io-client/index.d.ts'
+[18:27:15.704] Adding entry into typings cache: 'express' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/express/index.d.ts'
+[18:27:15.707] Adding entry into typings cache: 'isarray' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/isarray/index.d.ts'
+[18:27:15.711] Adding entry into typings cache: 'socket.io' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/socket.io/index.d.ts'
+[18:27:15.716] Adding entry into typings cache: 'socket.io-client' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/socket.io-client/index.d.ts'
+[18:27:15.720] Adding entry into typings cache: 'socket.io-parser' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/socket.io-parser/index.d.ts'
+[18:27:15.723] Adding entry into typings cache: 'ws' => 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/node_modules/@types/ws/index.d.ts'
+[18:27:15.724] Finished processing cache location 'C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7'
+[18:27:15.724] Process id: 9572
+[18:27:15.724] NPM location: "C:\Program Files\nodejs\npm" (explicit '--npmLocation' not  provided)
+[18:27:15.725] validateDefaultNpmLocation: false
+[18:27:15.725] Npm config file: C:/Users/test/AppData/Local/Microsoft/TypeScript/3.7/package.json
+[18:27:15.725] Updating types-registry npm package...
+[18:27:15.726] Exec: "C:\Program Files\nodejs\npm" install --ignore-scripts types-registry@latest
+[18:27:17.301]     Succeeded. stdout:
+    + types-registry@0.1.473
+    updated 1 package and audited 29 packages in 0.594s
+found 0 vulnerabilities
+
+
+[18:27:17.301] Updated types-registry npm package
+[18:27:17.312] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","c:/Users/test/Downloads/workspace/__self/Links_Template/js/main.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"c:/users/test/downloads/workspace/__self/links_template/js","kind":"discover"}
+[18:27:17.323] Loaded safelist from types map file 'c:/users/test/appdata/roaming/npm/node_modules/typescript/lib/typesmap.json'
+[18:27:17.325] Explicitly included types: []
+[18:27:17.326] Inferred typings from unresolved imports: []
+[18:27:17.327] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["c:/Users/test/Downloads/workspace/__self/Links_Template/js/bower_components","c:/Users/test/Downloads/workspace/__self/Links_Template/js/node_modules","c:/users/test/downloads/workspace/__self/links_template/js/bower_components","c:/users/test/downloads/workspace/__self/links_template/js/node_modules"]}
+[18:27:17.327] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["c:/Users/test/Downloads/workspace/__self/Links_Template/js/bower_components","c:/Users/test/Downloads/workspace/__self/Links_Template/js/node_modules","c:/users/test/downloads/workspace/__self/links_template/js/bower_components","c:/users/test/downloads/workspace/__self/links_template/js/node_modules"]}
+[18:27:17.327] DirectoryWatcher:: Added:: WatchInfo: c:/Users/test/Downloads/workspace/__self/Links_Template/js/bower_components
+[18:27:17.329] DirectoryWatcher:: Added:: WatchInfo: c:/Users/test/Downloads/workspace/__self/Links_Template/js/node_modules
+[18:27:17.330] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[18:27:17.330] Response has been sent.
+[18:27:17.331] No new typings were requested as a result of typings discovery
+[18:27:39.490] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/test/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","c:/Users/test/Downloads/workspace/__self/Links_Template/js/cofig.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"c:/users/test/downloads/workspace/__self/links_template/js","kind":"discover"}
+[18:27:39.492] Explicitly included types: []
+[18:27:39.497] Inferred typings from unresolved imports: []
+[18:27:39.498] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["c:/Users/test/Downloads/workspace/__self/Links_Template/js/bower_components","c:/Users/test/Downloads/workspace/__self/Links_Template/js/node_modules","c:/users/test/downloads/workspace/__self/links_template/js/bower_components","c:/users/test/downloads/workspace/__self/links_template/js/node_modules"]}
+[18:27:39.500] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["c:/Users/test/Downloads/workspace/__self/Links_Template/js/bower_components","c:/Users/test/Downloads/workspace/__self/Links_Template/js/node_modules","c:/users/test/downloads/workspace/__self/links_template/js/bower_components","c:/users/test/downloads/workspace/__self/links_template/js/node_modules"]}
+[18:27:39.501] DirectoryWatcher:: Added:: WatchInfo: c:/Users/test/Downloads/workspace/__self/Links_Template/js/bower_components
+[18:27:39.503] DirectoryWatcher:: Added:: WatchInfo: c:/Users/test/Downloads/workspace/__self/Links_Template/js/node_modules
+[18:27:39.506] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[18:27:39.507] Response has been sent.
+[18:27:39.509] No new typings were requested as a result of typings discovery

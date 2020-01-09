@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/**
+ * $File: style.css $
+ * $Date: 2020-01-09 18:22:23 $
+ * $Revision: $
+ * $Creator: Jen-Chieh Shen $
+ * $Notice: See LICENSE.txt for modification and distribution information
+ *                   Copyright © 2020 by Shen, Jen-Chieh $
+ */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-position: center;
+}
+
+#container {
+  margin: auto;
+
+  display: flex;
+  flex-wrap: nowrap;
+
+  width: 70%;
+  height: 70%;
+
+  background-color: red;
+}
+
+.slot {
+  margin: auto;
+
+  width: 100px;
+  height: 100px;
+
+  background-color: blue;
+}
