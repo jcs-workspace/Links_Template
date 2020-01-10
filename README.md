@@ -7,10 +7,6 @@
 
 ## Examples
 
-<p align="center">
-  <img src="./screenshot/screenshot_01.png"/>
-</p>
-
-<p align="center">
-  <img src="./screenshot/screenshot_02.png"/>
-</p>
+|Pipeline Of Emperor Yu (Ver. 1)  | Pipeline Of Emperor Yu (Ver. 2) |
+|:---|:---|
+|<img src="./screenshot/screenshot_01.png"/>|<img src="./screenshot/screenshot_02.png"/>|
