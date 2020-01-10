@@ -6,7 +6,7 @@
 </p>
 
 This is the default look of this template. You can customize few thing from
-the page you saw. Check out the [js/config.js]("./js/config.js") file and you 
+the page you saw. Check out the [js/config.js](./js/config.js) file and you 
 can see all the customizable variable there.
 
 ## Examples
