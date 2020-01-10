@@ -19,25 +19,50 @@ html, body {
 
 body {
   background-position: center;
+  background-size: cover;
 }
 
 #container {
   margin: auto;
 
   display: flex;
-  flex-wrap: nowrap;
+  flex-flow: column wrap;
 
   width: 70%;
-  height: 70%;
-
-  background-color: red;
+  height: 95%;
 }
 
 .slot {
   margin: auto;
+  width: 40%;
+  height: 40%;
+}
 
-  width: 100px;
-  height: 100px;
+.slot > a > img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 
-  background-color: blue;
+.slot > #desc {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+}
+
+#copyright {
+  /* Make it stick at the bottom. */
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+
+  height: 30px;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+  color: white;
+  opacity: 0.7;
+  z-index: 100;
 }
