@@ -2,7 +2,7 @@
 > Rapidly build your link page.
 
 <p align="center">
-  <img src="./screenshot/screenshot_00.png"/>
+  <img src="./screenshot/screenshot_00.png" width="1218" height="617"/>
 </p>
 
 ## Examples
