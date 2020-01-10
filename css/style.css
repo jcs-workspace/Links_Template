@@ -28,14 +28,17 @@ body {
   display: flex;
   flex-flow: column wrap;
 
-  width: 70%;
-  height: 95%;
+  width: 95%;
+  height: 100%;
 }
 
 .slot {
   margin: auto;
-  width: 40%;
-  height: 40%;
+  width: 20%;
+}
+
+.slot > a {
+  display: block;
 }
 
 .slot > a > img {
@@ -48,7 +51,7 @@ body {
   color: white;
   text-decoration: none;
   text-align: center;
-  display: block;
+  font-size: 200%;
 }
 
 #copyright {
